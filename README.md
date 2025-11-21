@@ -1,22 +1,24 @@
 
-<p align="center">
+<p style="margin:0;">
   <a href="#" target="_blank">
-    <img src="svg/hoangthedev.svg" width="600" alt="hoangthedev-official" />
+    <img src="svg/hoangthedev.svg" alt="hoangthedev-official" 
+         style="width: 100%; max-width: 1200px; height: auto; display: block; margin: 0 auto;" />
   </a>
 </p>
 
-<div style="border-left: 4px solid #6c63ff; padding: 12px 16px; margin: 16px 0; background-color: #1e1e1e; color: #f5f5f5;">
-
-
-🚀 **About Me:**  
-💻 Currently exploring mobile and backend development with Kotlin, Flutter, and Java Spring Boot  
-🌱 Learning new tools and improving my skills in Firebase and NodeJS  
-🤝 Open to collaborating on fun and challenging projects, especially mobile apps  
-🧩 Always looking for tips to level up in full-stack development  
-💬 Ask me about Kotlin, Flutter, or building apps from scratch  
-📫 Reach me at: [hoangthe2862003@gmail.com](mailto:hoangthe2862003@gmail.com)  
-😎 Pronouns: He/Him  
-⚡ Fun fact: I turn coffee ☕ into code 💻 and occasionally debug while smiling 😆
+<div style="max-width: 700px; margin: 24px auto; padding: 20px 25px; 
+            background-color: #1e1e1e; color: #f5f5f5; 
+            border-left: 4px solid #6c63ff; border-radius: 12px;
+            text-align: center; font-family: system-ui, sans-serif;">
+  🚀 <strong>About Me:</strong><br><br>
+  💻 Currently exploring mobile and backend development with Kotlin, Flutter, and Java Spring Boot<br>
+  🌱 Learning new tools and improving my skills in Firebase and NodeJS<br>
+  🤝 Open to collaborating on fun and challenging projects, especially mobile apps<br>
+  🧩 Always looking for tips to level up in full-stack development<br>
+  💬 Ask me about Kotlin, Flutter, or building apps from scratch<br>
+  📫 Reach me at: <a href="mailto:hoangthe2862003@gmail.com" style="color:#6c63ff;">hoangthe2862003@gmail.com</a><br>
+  😎 Pronouns: He/Him<br>
+  ⚡ Fun fact: I turn coffee ☕ into code 💻 and occasionally debug while smiling 😆
 </div>
 
 
