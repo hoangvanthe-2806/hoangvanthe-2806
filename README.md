@@ -6,19 +6,35 @@
   </a>
 </p>
 
-<div style="max-width: 700px; margin: 24px auto; padding: 20px 25px; 
-            background-color: #1e1e1e; color: #f5f5f5; 
-            border-left: 4px solid #6c63ff; border-radius: 12px;
-            text-align: center; font-family: system-ui, sans-serif;">
-  🚀 <strong>About Me:</strong><br><br>
-  💻 Currently exploring mobile and backend development with Kotlin, Flutter, and Java Spring Boot<br>
-  🌱 Learning new tools and improving my skills in Firebase and NodeJS<br>
-  🤝 Open to collaborating on fun and challenging projects, especially mobile apps<br>
-  🧩 Always looking for tips to level up in full-stack development<br>
-  💬 Ask me about Kotlin, Flutter, or building apps from scratch<br>
-  📫 Reach me at: <a href="mailto:hoangthe2862003@gmail.com" style="color:#6c63ff;">hoangthe2862003@gmail.com</a><br>
+<div align="center" style="
+    max-width: 700px; 
+    margin: 24px auto; 
+    padding: 24px 28px; 
+    background-color: #1e1e1e; 
+    color: #f5f5f5; 
+    border-left: 4px solid #6c63ff; 
+    border-radius: 14px;
+    font-family: system-ui, sans-serif;
+">
   
-  ⚡ Fun fact: I turn coffee ☕ into code 💻 and occasionally debug while smiling 😆
+  <h2 style="color:#6c63ff; margin-top:0;">🚀 About Me</h2>
+
+  💻 Exploring mobile & backend development with 
+  <strong>Kotlin</strong>, <strong>Flutter</strong>, and <strong>Spring Boot</strong><br><br>
+
+  🌱 Improving my skills in <strong>Firebase</strong> and <strong>NodeJS</strong><br><br>
+
+  🤝 Open to collaborating on fun and challenging mobile projects<br><br>
+
+  🧩 Always looking for tips to level up in full-stack development<br><br>
+
+  💬 Ask me anything about <strong>Kotlin</strong>, <strong>Flutter</strong>, or building apps from scratch<br><br>
+
+  📫 Reach me at:  
+  <a href="mailto:hoangthe2862003@gmail.com" style="color:#6c63ff;">
+    hoangthe2862003@gmail.com
+  </a>
+
 </div>
 
 
