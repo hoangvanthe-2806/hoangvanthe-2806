@@ -17,7 +17,7 @@
   🧩 Always looking for tips to level up in full-stack development<br>
   💬 Ask me about Kotlin, Flutter, or building apps from scratch<br>
   📫 Reach me at: <a href="mailto:hoangthe2862003@gmail.com" style="color:#6c63ff;">hoangthe2862003@gmail.com</a><br>
-  😎 Pronouns: He/Him<br>
+  
   ⚡ Fun fact: I turn coffee ☕ into code 💻 and occasionally debug while smiling 😆
 </div>
 
